@@ -202,14 +202,7 @@ margin-left: 40px;
   .drawers {
  width: 100vw;
 object-fit: cover;
-  margin-left: 1.5rem;
 }
-/* section{
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  margin: auto;
-} */
 h2{
    text-align: center;
   max-width: 280px;
@@ -219,14 +212,12 @@ h2{
 }
 .room {
   max-width: 310px;
-/* margin-left: 5%; */
 font-size: 14px;
 padding-left: 35px;
   
 }
 .share-container{
-  margin-left: 1%;
-  margin-top: 5px;
+margin-left: 0;
 }
 
 .author{
@@ -236,7 +227,7 @@ padding-left: 35px;
   padding: 0;
 }
 #share-menu.active {
-  width: 105vw;
+  width: 100vw;
 gap: 2rem;
 
 }
