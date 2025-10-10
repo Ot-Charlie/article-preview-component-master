@@ -53,7 +53,7 @@ What I learned is how important it is to structure your html semantics properly 
 
 ### Continued development
 
-Going forward, I will like to focus on my media quaries as I have not fully mastered how to achieve exact replica of figma designs. Also I will like to explore the use of other measuring units other than px
+Going forward, I will like to focus on my media queries as I have not fully mastered how to achieve exact replica of figma designs. Also I will like to explore the use of other measuring units other than px
 
 
 ### Useful resources
