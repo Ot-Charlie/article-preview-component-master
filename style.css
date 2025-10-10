@@ -105,7 +105,7 @@ span {
     margin-left: 25%;
   }
 }
-@media (max-width: 768px) {
+ @media (max-width: 768px) { /*for tablet screen */
    * {
   margin: 0;
   padding: 0;
@@ -175,11 +175,10 @@ padding: 0;
   
 }
 .drawers{
-  width: 100vw;          /* full viewport width */
+  width: 100vw;          
   height: 70vh;        
   object-fit: cover;   /* crop & fill without distortion */
-  object-position: center; /* keep the subject centered */ 
-}
+  object-position: center; }
 h2{
  padding: 0;
  max-width: 75%;
